@@ -8,7 +8,7 @@
 #### Projects:
 
 - [ProjectEuler.net](https://projecteuler.net/) [ in Assembly](https://github.com/Dodecahedrane/Project-Euler-In-Assembly)
-- [PiThon, Python programs using, invoving, calculating or otherwise playing around with Pi] (https://github.com/Dodecahedrane/PiThon)
+- [PiThon, Python programs using, invoving, calculating or otherwise playing around with Pi](https://github.com/Dodecahedrane/PiThon)
 - [Algorithms In C, Implementations of fundamental algorithms in C](https://github.com/Dodecahedrane/Algorithms-In-C)
 
 
