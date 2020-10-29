@@ -15,7 +15,7 @@
 #### Past Projects:
 
 
-#### Univeristy Work;
+#### Univeristy Work:
 
 ##### Year 1:
 
