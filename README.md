@@ -19,6 +19,9 @@
 
 ##### Year 1:
 
+###### COMP1000
+- [Maths Parser](https://github.com/Dodecahedrane/Basic-Maths-Parser)
+
 ###### COMP1001
 - [Basic Assembly Programming Tasks](https://github.com/Dodecahedrane/COMP-1001-Basic-Assembly-Tasks)
 - [Basic C Programming Task](https://github.com/Dodecahedrane/COMP-10001-Basic-C-Tasks)
