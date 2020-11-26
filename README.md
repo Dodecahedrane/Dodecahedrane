@@ -19,12 +19,12 @@
 
 ##### Year 1:
 
-###### COMP1000
+###### COMP1000 - Software Engineering
 - [Maths Parser](https://github.com/Dodecahedrane/Basic-Maths-Parser)
 
-###### COMP1001
-- [Basic Assembly Programming Tasks](https://github.com/Dodecahedrane/COMP-1001-Basic-Assembly-Tasks)
-- [Basic C Programming Task](https://github.com/Dodecahedrane/COMP-10001-Basic-C-Tasks)
+###### COMP1001 - Computer Systems
+- [Assembly Programming Tasks](https://github.com/Dodecahedrane/COMP-1001-Basic-Assembly-Tasks)
+- [C Programming Task](https://github.com/Dodecahedrane/COMP-10001-Basic-C-Tasks)
 
-###### COMP1004
+###### COMP1004 - Software Development Lifecycle
 - [Network Security Dashboard - COMP1004 SPA Project](https://github.com/Dodecahedrane/COMP-1004)
