@@ -1,5 +1,5 @@
 # Oliver Guy | Dodecahedrane
-## 1st Year Plymouth University Computer Science Student
+## 2nd Year Plymouth University Computer Science Student
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Dodecahedrane&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,7 +19,7 @@
 
 ##### Year 1:
 
-###### COMP1000 - Software Engineering
+###### COMP1000 - Software Engineering 1
 - [Maths Parser](https://github.com/Dodecahedrane/Basic-Maths-Parser)
 
 ###### COMP1001 - Computer Systems
@@ -31,3 +31,17 @@
 
 ###### COMP1004 - Software Development Lifecycle
 - [Network Security Dashboard - COMP1004 SPA Project](https://github.com/Dodecahedrane/COMP-1004-Net-Analysis)
+
+##### Year 2:
+
+###### COMP2000 - Software Engineering 2
+- [Java Programming Tasks](https://github.com/Dodecahedrane/COMP-2000-Java-Tasks)
+
+###### COMP2001 - Databases
+
+###### COMP2002 - AI
+
+###### COMP2003 - Group Project
+
+###### COMP2004 - Embedded Systems
+
