@@ -37,6 +37,7 @@
 
 ###### COMP2000 - Software Engineering 2
 - [Java Programming Tasks](https://github.com/Dodecahedrane/COMP-2000-Java-Tasks)
+- [Java Android Tasks](https://github.com/Dodecahedrane/COMP-2000-Java-Android-Tasks)
 
 ###### COMP2001 - Databases
 
