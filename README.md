@@ -9,11 +9,10 @@
 
 - [ProjectEuler.net](https://projecteuler.net/) [ in C](https://github.com/Dodecahedrane/Project-Euler-In-C)
 - [Merge Sort In Many Languages]()
-- [Empty A YouTube Playlist](https://github.com/Dodecahedrane/Empty-A-YouTube-Playlist)
-
 
 #### Past Projects:
 - [2020 Christmas Coding Competion - Make a fractal christmas tree in what little time I had on Christmas Day](https://github.com/Dodecahedrane/2020-Christmas-Coding-Competion)
+- [Empty A YouTube Playlist](https://github.com/Dodecahedrane/Empty-A-YouTube-Playlist)
 
 #### Univeristy Work:
 
