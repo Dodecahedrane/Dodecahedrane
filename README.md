@@ -8,7 +8,7 @@
 #### Current Projects:
 
 - [ProjectEuler.net](https://projecteuler.net/) [ in C](https://github.com/Dodecahedrane/Project-Euler-In-C)
-- [Merge Sort In Many Languages]()
+- [Merge Sort In Different Langauges](https://github.com/Dodecahedrane/Merge-Sort-In-Different-Langauges)
 
 #### Past Projects:
 - [2020 Christmas Coding Competion - Make a fractal christmas tree in what little time I had on Christmas Day](https://github.com/Dodecahedrane/2020-Christmas-Coding-Competion)
