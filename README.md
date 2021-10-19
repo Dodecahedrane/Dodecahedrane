@@ -10,7 +10,7 @@
 - [ProjectEuler.net](https://projecteuler.net/) [ in C](https://github.com/Dodecahedrane/Project-Euler-In-C)
 - [PiThon: Python programs using, invoving, calculating or otherwise playing around with Pi](https://github.com/Dodecahedrane/PiThon)
 - [Algorithms In C: Implementations of fundamental algorithms in C](https://github.com/Dodecahedrane/Algorithms-In-C)
-- [Empty A YouTube Playlist](https://github.com/Dodecahedrane/Empty-A-YouTube-Playlist/blob/main/README.md)
+- [Empty A YouTube Playlist](https://github.com/Dodecahedrane/Empty-A-YouTube-Playlist)
 
 
 #### Past Projects:
