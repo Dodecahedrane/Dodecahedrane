@@ -25,7 +25,7 @@
 - [Assembly Programming Tasks](https://github.com/Dodecahedrane/COMP-1001-Basic-Assembly-Tasks)
 - [C Programming Tasks](https://github.com/Dodecahedrane/COMP1001-C-Tasks)
 
-###### COMP1002 - Algorithms & Data Structures
+###### COMP1003 - Algorithms & Data Structures
 - [Mastermind Game](https://github.com/Dodecahedrane/COMP-1003-Mastermind)
 
 ###### COMP1004 - Software Development Lifecycle
