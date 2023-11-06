@@ -7,9 +7,8 @@
 
 #### Current Projects:
 
-Looking for a job! [LinkedIn](https://www.linkedin.com/in/oliver-guy-a119a9198/)
+- Looking for a job! [LinkedIn](https://www.linkedin.com/in/oliver-guy-a119a9198/)
+- [Postcode API](https://github.com/Dodecahedrane/PostcodeApi)
 
 #### Past Projects:
 - [Empty A YouTube Playlist](https://github.com/Dodecahedrane/Empty-A-YouTube-Playlist)
-- [ProjectEuler.net](https://projecteuler.net/) [ in C](https://github.com/Dodecahedrane/Project-Euler-In-C)
-
