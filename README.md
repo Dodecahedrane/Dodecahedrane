@@ -11,4 +11,6 @@
 - [Postcode API](https://github.com/Dodecahedrane/PostcodeApi)
 
 #### Past Projects:
+- [Self Driving in ETS2 - Final Year University Project](https://github.com/Dodecahedrane/ETS2-Self-Driving-AI)
 - [Empty A YouTube Playlist](https://github.com/Dodecahedrane/Empty-A-YouTube-Playlist)
+- [Basic Maths Parser in C# - First Year University Project](https://github.com/Dodecahedrane/Basic-Maths-Parser)
