@@ -1,5 +1,8 @@
 # Oliver Guy | Dodecahedrane
-## 3rd Year Plymouth University Computer Science Student (just finished)
+## Plymouth University Computer Science Graduate
+
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=Dodecahedrane&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dodecahedrane&theme=midnight-purple&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
