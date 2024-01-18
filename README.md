@@ -10,6 +10,7 @@
 
 - Looking for a job! [LinkedIn](https://www.linkedin.com/in/oliver-guy-a119a9198/)
 - [Postcode API](https://github.com/Dodecahedrane/PostcodeApi)
+- [My GitHub Gists](https://gist.github.com/Dodecahedrane)
 
 #### Past Projects:
 - [Self Driving in ETS2 - Final Year University Project](https://github.com/Dodecahedrane/ETS2-Self-Driving-AI)
